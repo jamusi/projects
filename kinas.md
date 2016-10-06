@@ -37,9 +37,9 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
 
  A licensa usada é [MIT License][https://opensource.org/licenses/MIT].
 
- _You can find our code at https://github.com/G-Pereira/kinas-bot.
+ _You can find our code at https://github.com/G-Pereira/kinas-bot._
  
- _The code is released under [MIT License][https://opensource.org/licenses/MIT].
+ _The code is released under [MIT License][https://opensource.org/licenses/MIT]._
 
 ## URL 
 
