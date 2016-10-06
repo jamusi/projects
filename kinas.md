@@ -1,10 +1,10 @@
 # Project name
-  **Kinas
+  **Kinas**
 ## Introduction
 
 **Kinas** é um bot português para o Facebook Messenger cujo objetivo é esclarecê-lo em assuntos desde a previsão do tempo à programação televisiva em Portugal.
 
-_**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in matters like weather forecast and TV program schedule in Portugal.
+_**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in matters like weather forecast and TV program schedule in Portugal._
 
 ## Description
 
