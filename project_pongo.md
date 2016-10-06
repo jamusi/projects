@@ -18,7 +18,7 @@ For this prototype built during the pixels.camp hackathon, we will develop a nat
 ## Team
 
  * [Gonçalo Valério](https://pixels.camp/dethos) 
- * [Pedro Costa](with Pixels Camp profile URL)
+ * [Pedro Costa](https://pixels.camp/pmdcosta)
  * [Rui Magalhães](with Pixels Camp profile URL)
 
 ## Code repository
