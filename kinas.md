@@ -10,9 +10,9 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
 
 
 
- * What does it do
- * What's the audience 
- * What technology will you use 
+..............
+
+
 
 ## Team
 
