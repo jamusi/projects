@@ -1,6 +1,6 @@
 # Nome do projeto - _Project name_
 
-  ![Kinas logo](https://github.com/JCacho/Stuff/blob/master/quina.png) **Kinas** 
+  ![Kinas logo](https://github.com/JCacho/Stuff/blob/master/quina.png) | **Kinas** 
   
 ## Introdução -  _Introduction_
 
