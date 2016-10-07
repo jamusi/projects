@@ -9,7 +9,7 @@ Toggling is a web platform to generate/share buttons between groups/channels to 
 * Create groups that share binary buttons (on/of)
 * Create buttons to each service/resource that you need
 * Toggle them accordingly to the availability of the services (only if you have permissions)
-* Define timers to change the buttons state
+* Define timers to change the buttons' states
 * Subscribe buttons in order to be notified when certain service is available/unavailable
 
 ## Team
