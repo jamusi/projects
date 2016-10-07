@@ -45,5 +45,5 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
 
 ## URL 
 
-Visit us [here][
+Visit us [here][https://www.facebook.com/KinasBot/].
 
