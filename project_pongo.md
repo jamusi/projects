@@ -1,8 +1,8 @@
-# Pongo
+# PonGo
 
 ## Introduction
 
-Pongo is a GPS based game, inspired on pong, played with the smartphone.
+PonGo is a GPS based game, inspired on pong, played with the smartphone.
 
 ## Description
 
