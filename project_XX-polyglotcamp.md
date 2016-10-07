@@ -16,7 +16,7 @@ Tech used: HTML, JS, CSS, Xliff, JSON
 
  * Pedro Cardoso (https://pixels.camp/pcardoso)
  * Delfim Machado (https://pixels.camp/dbcm)
- * Luis Alves
+ * Luis Alves (https://pixels.camp/luisalves73)
  * Óscar Sarabando (https://pixels.camp/etoscar)
 
 ## Code repository
