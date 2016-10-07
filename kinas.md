@@ -1,6 +1,6 @@
 # Nome do projeto - _Project name_
 
-  ![Kinas logo](https://github.com/JCacho/Stuff/blob/master/quina.png)  **Kinas** 
+  ![Kinas logo](https://github.com/JCacho/Stuff/blob/master/quina.png)  _**Kinas**_
   
 ## Introdução -  _Introduction_
 
@@ -10,11 +10,15 @@
 
 ## Descrição -  _Description_
 
- Imagine que nunca mais tem que se preocupar em procurar quais os melhores filmes que irão passar na televisão ou qual o preço do arroz no supermercado mais perto. 
+ Imagine que nunca mais tem que se preocupar em procurar quais os melhores filmes que irão passar na televisão ou qual o preço do arroz no supermercado mais perto. Para isto 
  
+ Tecnologias usadas: NodeJS
+ 
+ API services usados:
  * Microsoft Bot Framework
- * NOS Inovação API
+ * Language Understanding Intelligent Service (LUIS)
  * Unbabel API
+ * NOS Inovação API
  * Sonae Continente API
 
 ## Equipa - _Team_
@@ -43,7 +47,7 @@
 
 ## URL 
 
- Visita-nos em [here](https://www.facebook.com/KinasBot/).
+ Visite-nos [aqui](https://www.facebook.com/KinasBot/).
 
  _Visit us [here](https://www.facebook.com/KinasBot/)._
 
