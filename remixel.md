@@ -7,7 +7,7 @@ Remixel is the funniest way to mashup sounds. The combined sounds are then perfo
 
 ## Description
 
-What Remixel does is make use of a sound database - [Soundy](soundy.top) - to enable *anyone* the creation of sound combinations. After the user selects the sounds, a stage appears and a bunch of pixelized characters perform the created sound combination.
+What Remixel does is make use of a sound database - [Soundy](soundy.top) - to enable **anyone** the creation of sound combinations. After the user selects the sounds, a stage appears and a bunch of pixelized characters perform the created sound combination.
 
 In the end, a link is made available so that the user can share it.
 
