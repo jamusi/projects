@@ -1,4 +1,3 @@
-
 # Remixel
 
 ## Introduction
