@@ -1,4 +1,4 @@
-# Nome do Projeto - _Project name_
+# Nome do projeto - _Project name_
 
   **Kinas**
   
@@ -33,7 +33,7 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
  Miguel Carvalho - https://pixels.camp/jpdias
  
 
-## Repositório do Código  -  _Code repository_
+## Repositório do código  -  _Code repository_
 
  Encontre o nosso código em https://github.com/G-Pereira/kinas-bot.
 
