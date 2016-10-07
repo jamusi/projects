@@ -1,12 +1,14 @@
-# Project name
+# Nome do Projeto - _Project name_
+
   **Kinas**
-## Introduction
+  
+## Introdução -  _Introduction_
 
 **Kinas** é um bot português para o Facebook Messenger cujo objetivo é esclarecê-lo em assuntos desde a previsão do tempo à programação televisiva em Portugal.
 
 _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in matters like weather forecast and TV program schedule in Portugal._
 
-## Description
+## Descrição -  _Description_
 
 
 
@@ -14,7 +16,7 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
 
 
 
-## Team
+## Equipa - _Team_
 
  Daniel Silva - https://pixels.camp/Dannyps
  
@@ -31,7 +33,7 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
  Miguel Carvalho - https://pixels.camp/jpdias
  
 
-## Code repository
+## Repositório do Código  -  _Code repository_
 
  Encontre o nosso código em https://github.com/G-Pereira/kinas-bot.
 
@@ -44,6 +46,4 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
 ## URL 
 
 Visit us [here][
-
-## Other information
 
