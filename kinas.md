@@ -1,4 +1,4 @@
-# Nome do projeto - _Project name_
+# Kinas
 
   ![Kinas logo](https://github.com/JCacho/Algo/blob/master/quina.png)  _**Kinas**_
   
