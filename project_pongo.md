@@ -6,9 +6,9 @@ Pongo is a GPS based game, inspired on pong, played with the smartphone.
 
 ## Description
 
-This project is a game, that should be played with the smartphone. The users have to change the direction of the ball and make it leave the game area on the opposing side.
+This project is a game, that should be played with the smartphone. The users have to change the direction of the ball and make it leave the game area on the opposite side.
 
-Using his smartphone the game creator chooses the field on the world map and kick starts the game. The ball starts rolling and players have to move in the real world to play. The player that makes the ball leave the area more times win the game.
+Using his smartphone, the game creator chooses the field on the world map and kickstarts the game. The ball starts rolling and players have to move in the real world to play. The player that makes the ball leave the area more times wins the game.
 
 The intended audience is all the people that like games that interact with the real world.
 
