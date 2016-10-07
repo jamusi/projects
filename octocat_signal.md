@@ -4,29 +4,24 @@ Octocat Signal
 
 ## Introduction
 
-Your GitHub repo status at a glance!
+Constant notifications are hell. We are building a fun and calmer notification system for Github based on colored lights .
 
 ## Description
 
-Ever wondered if you have an issue pending in your GitHub repo?
-Did your intern send that a pull request already?
+If you work with Github you wonder, "are there any issues pending?", "Did johnny send that pull request already?"
 
-Worry no more! Octocat Signal is here!
+Octocat signal aims to deal away with the stress, or at least make it bearable. We will use a led system that lights up an  octocat figurine with different colors.
 
-Octocat Signal is a fully automated notification hub that lights up with different lights depending on what's waiting for you in your repo.
+This will be done with an **ESP8266 (NodeMCU)** running [MicroPython](https://micropython.org/), with the goal of being completly standalone.
 
-Write a description here including:
-
- * What does it do
- * What's the audience
- * What technology will you use
+The initial version of the Octosignal will be made for Github users. Other versions can be made for other sources of notifications.
 
 ## Team
 
  * [Bruno Amaral](https://pixels.camp/brunoamaral)
  * [João Neves](https://pixels.camp/jneves)
- * [Nuno Correia](https://pixels.camp/wisewolf)
  * [Miguel Nogueira](https://pixels.camp/madril)
+ * [Nuno Correia](https://pixels.camp/wisewolf)
 
 ## Code repository
 
