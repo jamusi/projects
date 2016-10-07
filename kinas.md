@@ -1,6 +1,6 @@
 # Nome do projeto - _Project name_
 
-  ![Kinas logo](https://github.com/JCacho/Stuff/blob/master/quina.png)  _**Kinas**_
+  ![Kinas logo](https://github.com/JCacho/Algo/blob/master/quina.png)  _**Kinas**_
   
 ## Introdução -  _Introduction_
 
@@ -10,11 +10,27 @@
 
 ## Descrição -  _Description_
 
- Imagine que nunca mais tem que se preocupar em procurar quais os melhores filmes que irão passar na televisão ou qual o preço do arroz no supermercado mais perto. Para isto 
+ Imagine que nunca mais tem que se preocupar em procurar quais os melhores filmes que irão passar na televisão ou qual o preço do arroz no supermercado mais perto.
  
- Tecnologias usadas: NodeJS
+ O **Kinas** é acessível a partir de qualquer dispositivo desde que tenha acesso internet, permitindo uma conversa fluida com o utilizador facilitando assim o acesso à informação requerida por este.
+ 
+ Tecnologias implementadas: NodeJS
  
  API services usados:
+ * Microsoft Bot Framework
+ * Language Understanding Intelligent Service (LUIS)
+ * Unbabel API
+ * NOS Inovação API
+ * Sonae Continente API
+ 
+ 
+ _Imagine a world where you don't have to worry about looking for the best movies that will play in the TV or how much does rice cost at the nearest supermarket._
+ 
+ _**Kinas** is accessible from any device as long as it has internet access, allowing a fluid conversation which eases the access to the information wanted by the user._
+ 
+ _Implemented technology:_ NodeJS
+ 
+ _API services used:_
  * Microsoft Bot Framework
  * Language Understanding Intelligent Service (LUIS)
  * Unbabel API
