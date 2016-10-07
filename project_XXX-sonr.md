@@ -50,4 +50,4 @@ easily consume it (or a subset of it).
 
 ## Code repository
 
-https://github.com/JosePedroDias/sonr
+https://github.com/jlnabais/sonr
