@@ -4,9 +4,16 @@ Octocat Signal
 
 ## Introduction
 
-(Write a short project intro here, just 10/20 words)
+Your GitHub repo status at a glance!
 
 ## Description
+
+Ever wondered if you have an issue pending in your GitHub repo?
+Did your intern send that a pull request already?
+
+Worry no more! Octocat Signal is here!
+
+Octocat Signal is a fully automated notification hub that lights up with different lights depending on what's waiting for you in your repo.
 
 Write a description here including:
 
@@ -19,6 +26,7 @@ Write a description here including:
  * [Bruno Amaral](https://pixels.camp/brunoamaral)
  * [João Neves](https://pixels.camp/jneves)
  * [Nuno Correia](https://pixels.camp/wisewolf)
+ * [Miguel Nogueira](https://pixels.camp/madril)
 
 ## Code repository
 
