@@ -14,7 +14,7 @@ With a single button click, tOSTa will analyse tags, descriptions and suggest a 
 
 This application is for any instagramer who likes to take photos on holidays, trips or simply their favorites lunches.
 
-tOSTa will be a single button Ruby on Rails(5) web application. We will use LastFM to search for musics, and spotify to automatically create the playlist of your holidays.
+tOSTa will be a single button Ruby on Rails(5) web application. We will use LastFM to search for musics, and spotify to automatically create the playlist of your holidays - _tosta mix_.
 
 ## Team
 
