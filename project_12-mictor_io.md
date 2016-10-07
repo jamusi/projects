@@ -40,11 +40,12 @@ What technologies did we use?
 
 ## Code repository
 
-Hardware
-http://github.com/rchicoria/mictor.io-firmware
+Hardware: http://github.com/rchicoria/mictor.io-firmware  
+Software: https://github.com/rchicoria/mictor.io  
 
-Software
+## URL
 
+Live Preview: http://104.236.192.113:3000
 
 [1]: http://people.scs.carleton.ca/~kranakis/Papers/urinal.pdf
 [2]: http://www.nodemcu.com
