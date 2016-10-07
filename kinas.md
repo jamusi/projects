@@ -6,7 +6,7 @@
 
  **Kinas** é um bot português para o Facebook Messenger cujo objetivo é esclarecê-lo em diversos assuntos da sua vida diária em Portugal.
  
- ---
+...
 
  _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in a large group of daily matters in Portugal._
 
@@ -25,7 +25,7 @@
  * NOS Inovação API
  * Sonae Continente API
  
- ----
+...
  
  _Imagine a world where you don't have to worry about looking for the best movies that will play in the TV or how much does rice cost at the nearest supermarket._
  
@@ -61,7 +61,7 @@
 
  Encontre o nosso código em https://github.com/G-Pereira/kinas-bot.
  
- ---
+...
 
  _You can find our code at_ https://github.com/G-Pereira/kinas-bot.
  
@@ -70,7 +70,7 @@
 
  Visite-nos [aqui](https://www.facebook.com/KinasBot/).
  
- ---
+...
 
  _Visit us [here](https://www.facebook.com/KinasBot/)._
 
