@@ -1,6 +1,6 @@
 # Project name
 
- Octocat Signal
+Octocat Signal
 
 ## Introduction
 
