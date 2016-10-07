@@ -1,17 +1,22 @@
 # Project name
-Foodit
+Food-it
 
 ## Introduction
 
-(Write a short project intro here, just 10/20 words)
+According to the EU a s*** load of food is wasted, and fridges stink. We say let's grab all of that and food-it!
 
 ## Description
-
+2
 Write a description here including: 
 
  * What does it do
+ 	* Reduce food waste, trips to the trash and of course your fridge will stop stinking.
+
  * What's the audience 
+	* Basically everyone with a fridge.
+
  * What technology will you use 
+	* Arduino, smartphones and IoT
 
 ## Team
 
@@ -23,16 +28,15 @@ Write a description here including:
 
 ## Code repository
 
-This is not required, but if you want, you can share your project repo here 
-
-## URL 
-
-In case you have something online to show, please, share here your URL 
+https://github.com/cmota/food-it
 
 ## Other information
 
-In case you think there's more information about the project we should be aware of
+We will be using
 
-See this [example][1]
+[1]: Lettuce (1 rotten 1 normal, sorry about the waste)
+[2]: Arduino 
+[3]: Android Phone
+[4]: Web Stuff
 
-[1]: nobull_bot.md
+We're going for SONAE and APPTOIDE challenges.
