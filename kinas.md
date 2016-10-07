@@ -1,20 +1,21 @@
 # Nome do projeto - _Project name_
 
-  ![Kinas logo](https://github.com/JCacho/Stuff/blob/master/quina.png) | **Kinas** 
+  ![Kinas logo](https://github.com/JCacho/Stuff/blob/master/quina.png)  **Kinas** 
   
 ## Introdução -  _Introduction_
 
-**Kinas** é um bot português para o Facebook Messenger cujo objetivo é esclarecê-lo em assuntos desde a previsão do tempo à programação televisiva em Portugal.
+ **Kinas** é um bot português para o Facebook Messenger cujo objetivo é esclarecê-lo em diversos assuntos da sua vida diária em Portugal.
 
-_**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in matters like weather forecast and TV program schedule in Portugal._
+ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in a large group of daily matters in Portugal._
 
 ## Descrição -  _Description_
 
-
-
-..............
-
-
+ Imagine que nunca mais tem que se preocupar em procurar quais os melhores filmes que irão passar na televisão ou qual o preço do arroz no supermercado mais perto. 
+ 
+ * Microsoft Bot Framework
+ * NOS Inovação API
+ * Unbabel API
+ * Sonae Continente API
 
 ## Equipa - _Team_
 
