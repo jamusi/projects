@@ -22,7 +22,7 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
  
  Diogo Silva - https://pixels.camp/diogo98s
  
- Gil Domingues - https://pixels.camp/DominguesDM
+ Gil Domingues - https://pixels.camp/DominguesGM
  
  Gonçalo Pereira - https://pixels.camp/G-Pereira
  
