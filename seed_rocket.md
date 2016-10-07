@@ -31,7 +31,7 @@ Not yet :)
 
 After crashing our original idea due to technical issues, we decided to embrace the startup mentality and pivot it by creating something that helps startups focusing on the one thing that matters: Launch! (not!)
 
-We auto-generate a unique rocket for your startup that leaves your investors completely jaw-dropped and all your clients converted with the change the world mentality you need right there from the start.
+We auto-generate a unique rocket for your startup that leaves your investors completely jaw-dropped and all your clients converted with the change the world perspective you need right there from the start.
 It’s that simple: BOOOM!!!!!!1
 
 As an investor we’ll be able to create your own startup leads with an engaging page.
