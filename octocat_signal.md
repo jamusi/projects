@@ -29,12 +29,7 @@ https://github.com/wisewolf/Octocat-Signal
 
 ## URL
 
-In case you have something online to show, please, share here your URL
+
 
 ## Other information
 
-In case you think there's more information about the project we should be aware of
-
-See this [example][1]
-
-[1]: nobull_bot.md
