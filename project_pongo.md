@@ -19,7 +19,7 @@ For this prototype built during the pixels.camp hackathon, we will develop a nat
 
  * [Gonçalo Valério](https://pixels.camp/dethos) 
  * [Pedro Costa](https://pixels.camp/pmdcosta)
- * [Rui Magalhães](with Pixels Camp profile URL)
+ * [Rui Magalhães](https://pixels.camp/ruimagalhaes)
 
 ## Code repository
 
@@ -31,10 +31,6 @@ At the moment we don't have any website ready.
 
 ## Other information
 
-Here are some screens of what we want to achieve on the mobile interface:
+Below is a screen describing what we want to achieve on the mobile interface:
 
-![Screen1]()
-
-![Screen2]()
-
-![Screen3]()
+![map2.png](https://draftin.com:443/images/41795?token=0TgtjpeYR1TQkuMlKAiZTQ9Un2ZoiS0jaKGxzKiIzSxN6xa7thvhwuaQaNynbyK5LHPIBAuIJa-TPPjBzXPT_nU) 
