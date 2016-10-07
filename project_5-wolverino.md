@@ -20,7 +20,7 @@ To bring our proof-of-concept to life we will use littleBits, Android, BITalino 
 
  * Hugo Silva https://pixels.camp/hugoslv
  * Paulo Pires https://pixels.camp/pires
- * Ricardo Pereira
+ * Ricardo Pereira https://pixels.camp/3devangelist
 
 ## Code repository
 
