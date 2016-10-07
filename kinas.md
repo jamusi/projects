@@ -37,7 +37,7 @@ _**Kinas** is a portuguese Facebook Messenger bot that aims to enlighten you in 
 
  Encontre o nosso código em https://github.com/G-Pereira/kinas-bot.
 
- _You can find our code at https://github.com/G-Pereira/kinas-bot._
+ _You can find our code at_ https://github.com/G-Pereira/kinas-bot.
  
 
 ## URL 
