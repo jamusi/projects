@@ -1,5 +1,4 @@
-# Project name
-Food-it
+# Food-it
 
 ## Introduction
 
