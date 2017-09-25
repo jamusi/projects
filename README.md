@@ -1,4 +1,4 @@
-This guide is from the 2017 edition and is now deprecated.
+This guide is from the 2016 edition and is now deprecated.
 
 The hackathon rules can be found [here][1].
 
